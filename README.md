@@ -1,3 +1,3 @@
-# fetin2023
+# Tutorial Fetin 2023
 
-Tutorial de execução em:
+Tutorial de execução em: https://www.youtube.com/playlist?list=PLCzRjQlU0XnI9cr8WfclLflrvxrTXAgIm
